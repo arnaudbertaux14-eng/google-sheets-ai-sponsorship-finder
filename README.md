@@ -29,11 +29,12 @@ En s’appuyant sur l’API OpenAI, l’outil exploite de grandes quantités d�
 ---
 
 ## 📸 Aperçu
-[Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Paramètres.png)  
-[Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Résultat.png)  
-[Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Prompt.png)  
-[Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Contact Linkedin.png)  
-Vidéo de démonstration pour l'utilisation de l'outil : https://www.loom.com/share/2f74474b0627467d9ba008783b2d2432?sid=0cd3e4fc-754e-492b-828c-c7525a962899
+
+- [Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Paramètres.png)  
+- [Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Résultat.png)  
+- [Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Prompt.png)  
+- [Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Contact Linkedin.png)  
+- Vidéo de démonstration pour l'utilisation de l'outil : https://www.loom.com/share/2f74474b0627467d9ba008783b2d2432?sid=0cd3e4fc-754e-492b-828c-c7525a962899
 ---
 
 ## 🚀 Fonctionnalités
