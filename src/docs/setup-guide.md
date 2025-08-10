@@ -41,12 +41,12 @@ Cliquez "OK"
 ## 📋 Étape 5 : Créer l'onglet "Paramètres"
 
 Créez un nouvel onglet nommé "Paramètres"
-Configurez comme suit : [voir fichier de configuration dans ce répertoire Github](src/examples/sheet-configuration.md)
+Configurez comme suit : voir fichier de configuration dans ce répertoire Github : src/examples/sheet-configuration.md
 
 ## 📝 Étape 6 : Créer l'onglet "Prompt"
 
 Créez un nouvel onglet nommé "Prompt"
-Structure : [voir fichier de configuration dans ce répertoire Github](src/examples/sheet-configuration.md)
+Structure : voir fichier de configuration dans ce répertoire Github : src/examples/sheet-configuration.md
 
 ## 🧪 Étape 7 : Premier test
 
