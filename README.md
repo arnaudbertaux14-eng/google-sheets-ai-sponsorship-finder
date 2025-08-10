@@ -7,11 +7,10 @@ Il automatise la recherche d’entreprises alignées avec vos valeurs RSE et ré
 ---
 
 ## 📸 Aperçu
-
-![Aperçu du Google Sheet](docs/images/sheet_overview.png)  
-*Exemple de feuille avec résultats de recherche et contacts trouvés.*  
-![Menu personnalisé](docs/images/custom_menu.png)  
-*Menu ajouté automatiquement dans Google Sheets pour lancer les recherches.*
+[Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Paramètres.png)  
+[Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Résultat.png)  
+[Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Prompt.png)  
+[Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Contact Linkedin.png)  
 
 ---
 
