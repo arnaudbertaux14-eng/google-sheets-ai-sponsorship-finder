@@ -33,7 +33,7 @@ En s’appuyant sur l’API OpenAI, l’outil exploite de grandes quantités d�
 [Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Résultat.png)  
 [Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Prompt.png)  
 [Aperçu du Google Sheet - onglet "Contact Linkedin"](docs/Onglet Contact Linkedin.png)  
-
+Vidéo de démonstration pour l'utilisation de l'outil : https://www.loom.com/share/2f74474b0627467d9ba008783b2d2432?sid=0cd3e4fc-754e-492b-828c-c7525a962899
 ---
 
 ## 🚀 Fonctionnalités
@@ -58,7 +58,8 @@ src/
 ## 📖 Documentation
 - 📜 Guide d’installation : src/docs/setup-guide.md
 - 💬 Prompts d’exemple : src/examples/
-- 🖼 Captures d’écran : docs/
+- 🖼 Captures d’écran : src/docs/
+- 📖 Fichier excel à ouvrir dans Google Sheet : src/docs/
 
 ## ⚡ Installation rapide
 Ouvrir un nouveau Google Sheet
@@ -110,7 +111,7 @@ Ce projet utilise le modèle **`gpt-4o-mini-search-preview-2025-03-11`** pour an
 | **Vitesse**                 | Moyenne                                | Lente (requêtes web)                                       | **Rapide**                 |
 | **Coût estimé (10 entr.)**  | Variable                               | Variable                                                   | **≈ 0,001 €**               |
 | **Qualité des réponses**    | Très haute                             | Dépend des sources trouvées                                | Haute                      |
-| **Recherche web**           | Non (sauf intégration spécifique)      | Oui                                                        | Non                        |
+| **Recherche web**           | Non (sauf intégration spécifique)      | Oui                                                        | Non (sauf intégration spécifique)   |
 | **Idéal pour**              | Analyses complexes, rapports détaillés | Veille documentaire en ligne                               | **Filtrage & scoring local** |
 
 ### En résumé
