@@ -51,7 +51,7 @@ MISSION : Recherche les informations de contact les plus précises et à jour po
 Trouve les informations suivantes :
 - Nom et prénom du responsable RSE, (utiliser LinkedIn ou les rapports RSE parfois en PDF),
 - Nom et prénom du Dirigeant ou fondateur (utiliser des sites comme societe.com et sirene.fr,
-- Email du responsable RSE et du dirigeant et leur téléphone, portable de préférence, préférence pour un contact dédié RSE si disponible, 
+- Email du responsable RSE et du dirigeant et leur téléphone, portable de préférence, préférence pour un contact dédié RSE si disponible, ces informations sont souvent disponibles dans les rapports RSE. Assure toi de trouver un numéro de téléphone et un email d'entreprise,
 - Nom et prénom du responsable ressources humaines et son email,
 - Évalue l'alignement avec les valeurs de mécénat (score 0-100),
 - Source ou justification de l’information, lien vers la page ou document source,
@@ -63,7 +63,7 @@ Réponds UNIQUEMENT au format JSON suivant :
     {
       "nom_fonction_rse": "Nom et fonction du contact RSE",
       "nom_dirigeant": "Nom du dirigeant/fondateur",
-      "contact": "Email ou téléphone",
+      "contact": "Tous les emails et téléphones d'entreprise",
       "nom_drh": "Nom du responsable ressources humaines et son email",
       "score_alignement": 85,
       "source_justification": "URL ou source de l'information"
